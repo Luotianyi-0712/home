@@ -20,19 +20,24 @@
     "link": "https://onetool.likesyou.eu.org/"
   },
   {
-    "icon": "AccessTimeTwotone",
+    "icon": "CalendarDay",
     "name": "回忆留档",
     "link": "http://miku.liveblog365.com/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://server.cuat.me/"
   },
    {
     "icon": "Fire",
     "name": "代理",
     "link": "https://proxy.9bit.me/"
+  },
+  {
+    "icon": "Centercode",
+    "name": "TV",
+    "link": "https://tv.2sb.news/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "http://server.cuat.me/"
   },
   {
     "icon": "Book",
