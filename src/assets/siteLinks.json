@@ -1,37 +1,42 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "我的博客",
+    "link": "https://cupcat.eu.org/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "API站",
+    "link": "https://api.qiucg.com/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "音乐解析",
+    "link": "https://mikus.serv00.net/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "自用站点",
+    "link": "https://onetool.likesyou.eu.org/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "OldBlog",
+    "name": "回忆留档",
+    "link": "http://miku.liveblog365.com/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://server.cuat.me/"
+  },
+   {
+    "icon": "Fire",
+    "name": "代理",
+    "link": "https://proxy.9bit.me/"
+  },
+  {
+    "icon": "Book",
+    "name": "玩具站",
+    "link": "http://tianjige.likesyou.eu.org/"
   }
 ]
