@@ -63,16 +63,17 @@ const siteLinksList = computed(() => {
 
 // 网站链接图标
 const siteIcon = {
+  Atlas,
+  Book,
   Blog,
   Cloud,
   CompactDisc,
   Compass,
-  Book,
   Fire,
+  Eraser,
   LaptopCode,
   CalendarDay,
   Centercode,
-  Atlas,
 };
 
 // 链接跳转
