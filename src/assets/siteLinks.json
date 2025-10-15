@@ -7,7 +7,7 @@
   {
     "icon": "Cloud",
     "name": "API站",
-    "link": "https://api.qiucg.com/"
+    "link": "https://api.openel.top/"
   },
   {
     "icon": "CompactDisc",
@@ -16,8 +16,8 @@
   },
   {
     "icon": "Compass",
-    "name": "自用站点",
-    "link": "https://onetool.likesyou.eu.org/"
+    "name": "Alist",
+    "link": "https://alist.lty.bio/"
   },
   {
     "icon": "CalendarDay",
@@ -27,7 +27,17 @@
    {
     "icon": "Fire",
     "name": "代理",
-    "link": "https://proxy.9bit.me/"
+    "link": "https://proxy.qxq.news/"
+  },
+  {
+    "icon": "Book",
+    "name": "玩具站",
+    "link": "http://tianjige.likesyou.eu.org/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "http://xxs.bio/"
   },
   {
     "icon": "Centercode",
@@ -35,13 +45,8 @@
     "link": "https://tv.2sb.news/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "http://server.cuat.me/"
-  },
-  {
-    "icon": "Book",
-    "name": "玩具站",
-    "link": "http://tianjige.likesyou.eu.org/"
-  }
+    "icon": "Eraser",
+    "name": "自用站点",
+    "link": "https://onetool.likesyou.eu.org/"
+  }  
 ]
