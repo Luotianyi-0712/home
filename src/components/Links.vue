@@ -72,6 +72,7 @@ const siteIcon = {
   LaptopCode,
   CalendarDay,
   Centercode,
+  Atlas,
 };
 
 // 链接跳转
